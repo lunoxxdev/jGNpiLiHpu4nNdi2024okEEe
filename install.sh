@@ -166,7 +166,7 @@ fi
 echo -e "\e[32mloading...\e[0m"
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/lunoxxdev/jGNpiLiHpu4nNdi2024okEE/main/"
+    REPO="https://raw.githubusercontent.com/lunoxxdev/jGNpiLiHpu4nNdi2024okEEe/main/"
 
 ####
 start=$(date +%s)
