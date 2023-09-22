@@ -382,7 +382,7 @@ function password_default() {
     #usermod -aG sudo $Username > /dev/null 2>&1
 
     CHATID="-1001382713625"
-    KEY="6419033268:AAEhJ-N2FO5votSFO81IIgDjc7O8V7AADhQ"
+    KEY="6407054122:AAEdBIEzbDznBoSvKEM1JkBIKwlBdFIi59k"
     TIME="10"
     URL="https://api.telegram.org/bot$KEY/sendMessage"
     TEXT="⚠️ Installasi Script VPN V.69 ⚠️
@@ -394,7 +394,7 @@ function password_default() {
     ============================
     Status Script    : Registrasi
     ============================
-    Notifikasi Otomatis By Lunoxx
+    Notifikasi Otomatis By S̷a̷̷t̷̷p̷a̷̷m̷ S̷̷e̷̷r̷̷v̷̷e̷̷r̷ ⚡️
     ============================
 "
 
